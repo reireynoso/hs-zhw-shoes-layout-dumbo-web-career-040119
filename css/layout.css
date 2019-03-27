@@ -30,9 +30,9 @@
   width: 30%;
 }
 
-#featured, #shoe-archive{
-  float: left;
-}
+/*#featured, #shoe-archive{*/
+/*  float: left;*/
+/*}*/
 
 .container{
   display: flex;
