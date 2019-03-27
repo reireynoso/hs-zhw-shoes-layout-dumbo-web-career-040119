@@ -22,6 +22,9 @@
   clear: both;
 }
 
+#featured, #shoe-archive{
+  float: left;
+}
 /* Positioning Classes */
 
 
