@@ -34,6 +34,9 @@
   float: left;
 }
 
+.container{
+  display: flex;
+}
 
 /* Positioning Classes */
 
