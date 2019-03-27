@@ -37,6 +37,7 @@
 .container{
   display: flex;
   justify-content: space-between;
+  padding-bottom: 2em;
 }
 
 /* Positioning Classes */
