@@ -22,9 +22,19 @@
   clear: both;
 }
 
+#featured{
+  width: 60%;
+}
+
+#shoe-archive {
+  width: 30%;
+}
+
 #featured, #shoe-archive{
   float: left;
 }
+
+
 /* Positioning Classes */
 
 
