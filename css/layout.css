@@ -44,7 +44,9 @@
   width: 30%;
 }
 
-.container {}
+.container div{
+  padding: auto;
+}
 
 /* Positioning Classes */
 
